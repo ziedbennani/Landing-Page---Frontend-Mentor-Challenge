@@ -1,4 +1,4 @@
-PREVIEW: https://ziedbennani.github.io/Landing-Page---Frontend-Mentor-Challenge/
+PREVIEW : https://ziedbennani.github.io/Responsive-Landing-page-Frontend-Mentor-Challenge/
 
 
 # Frontend Mentor - Insure landing page
